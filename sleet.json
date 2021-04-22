@@ -1,0 +1,12 @@
+{
+  "username": "",
+  "useremail": "",
+  "sources": [
+    {
+      "name": "CICD",
+      "type": "local",
+      "path": "C:\\Users\\WDAGUtilityAccount\\Downloads\\packages",
+      "baseURI": "https://localhost:49848"
+    }
+  ]
+}
